@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Legal Speciality@3x</title>
+    <defs>
+        <path d="M11,4 L6,4 C4.8954305,4 4,4.8954305 4,6 L4,18 C4,19.1045695 4.8954305,20 6,20 L18,20 C19.1045695,20 20,19.1045695 20,18 L20,6 C20,5.03241684 19.3128961,4.22531538 18.4,4.04000725 L18.4,12 C18.4,12.7202981 17.6614744,13.2043507 17.0009972,12.9169497 L14.7204746,11.9245999 L12.3930678,12.9195095 C11.7333039,13.2015424 11,12.7175173 11,12 L11,4 Z M6,2 L18,2 C20.209139,2 22,3.790861 22,6 L22,18 C22,20.209139 20.209139,22 18,22 L6,22 C3.790861,22 2,20.209139 2,18 L2,6 C2,3.790861 3.790861,2 6,2 Z M11.1,15.5 C11.6522847,15.5 12.1,15.9477153 12.1,16.5 C12.1,17.0522847 11.6522847,17.5 11.1,17.5 L6.6,17.5 C6.04771525,17.5 5.6,17.0522847 5.6,16.5 C5.6,15.9477153 6.04771525,15.5 6.6,15.5 L11.1,15.5 Z M8.4,11.9 C8.95228475,11.9 9.4,12.3477153 9.4,12.9 C9.4,13.4522847 8.95228475,13.9 8.4,13.9 L6.6,13.9 C6.04771525,13.9 5.6,13.4522847 5.6,12.9 C5.6,12.3477153 6.04771525,11.9 6.6,11.9 L8.4,11.9 Z M13,4 L13,10.4849881 L14.3309263,9.9160496 C14.584048,9.80784625 14.8705798,9.80877224 15.1229969,9.91860936 L16.4,10.4742863 L16.4,4 L13,4 Z" id="path-1"></path>
+        <filter x="-17.5%" y="-12.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0784313725   0 0 0 0 0.196078431   0 0 0 0 0.31372549  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="FloatLegal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Attorneys/View-profile" transform="translate(-414.000000, -259.000000)">
+            <g id="Group-5-Copy-2" transform="translate(406.000000, 250.000000)">
+                <g id="Shape" transform="translate(8.000000, 8.000000)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#173E67" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

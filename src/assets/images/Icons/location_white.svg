@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Icons/ic_date_range@3x</title>
+    <g id="Create-Appointments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Practice-Calender-Schedule/Create-Appointment" transform="translate(-520.000000, -235.000000)">
+            <g id="Group-4" transform="translate(502.000000, 217.000000)">
+                <g id="Group-90" transform="translate(18.500000, 18.000000)">
+                    <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="24" height="24" rx="5"></rect>
+                    <g id="location.alt" transform="translate(4.000000, 2.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M16,8.25 C16,12.8063 8,20 8,20 C8,20 0,12.8063 0,8.25 C0,3.69365 3.58172,0 8,0 C12.4183,0 16,3.69365 16,8.25 Z" id="Path"></path>
+                    </g>
+                    <circle id="Oval" fill="#FFFFFF" cx="12" cy="10" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

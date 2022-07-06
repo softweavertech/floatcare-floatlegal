@@ -1,0 +1,110 @@
+.border-radius-10 {
+    border-radius: 10px !important;
+}
+.border-radius-15 {
+    border-radius: 15px !important;
+}
+.border-radius-10 {
+    border-radius: 10px !important;
+}
+
+.border-radius-20 {
+    border-radius: 20px !important;
+}
+
+.border-radius-35 {
+    border-radius: 35px !important;
+}
+
+// .main-container-bg {
+//     background: #F1F1F5;
+// }
+.main-wrapper{
+    // background: #FAFAFB;
+    min-height: calc(100vh);
+    padding-top: 72px;
+    height: auto!important;
+  }
+.bread-crumb-nav {
+    .nav-link {
+        cursor: pointer;
+        font-size: 1.125rem;
+        font-weight: 500;
+        color: rgba($color: #173E67, $alpha: 0.2); 
+        padding-bottom: 15px;
+    }
+
+    .active { 
+        border-bottom: 2px solid #173E67;
+        .nav-link {
+            color: rgba($color: #173E67, $alpha: 1);
+        }
+    }
+}
+.btn-edit {
+    background: #5563AB !important;
+    border-color: #5563AB !important;
+    color: #fff !important;
+}
+.contianer-tabs {
+    .nav-item {
+        margin-left: 10px;
+        border-radius: 12px 12px 0 0;
+        overflow: hidden;
+
+        .nav-link {
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            color: rgba($color: #173E67, $alpha: 0.4);
+            padding: 10px 40px;
+        }
+
+        &.active {
+            background: rgba($color: #5563AB, $alpha: 0.03);
+
+            .nav-link {
+                color: rgba($color: #173E67, $alpha: 1);
+            }
+        }
+    }
+
+}
+
+.otp-modal {
+    border-radius: 20px;
+
+    h2 {
+        font-size: 1.65rem;
+        color: #173E67;
+    }
+
+    .btn {
+        border-radius: 10px;
+        font-size: 0.75rem;
+    }
+
+    .resend-btn {
+        background: #F1F1F5;
+        color: #173E67;
+    }
+
+    .cancel-btn{  
+        img{ 
+            width: 45px;
+        }
+    }
+
+    .otp-input {
+
+        width: 50px;
+        height: 50px;
+        border-radius: 8px;
+        text-align: center;
+        border: #e9e9e9 solid 1px;
+        font-size: 1.5rem;
+        font-weight: 600;
+        background: rgba($color: #173E67, $alpha: 0.02);
+        outline: none;
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Email@3x</title>
+    <g id="Cases" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Client-Cases/Case-Info/William-Carnes/Evaluations-Copy-7" transform="translate(-152.000000, -585.000000)">
+            <g id="Group-10" transform="translate(127.000000, 305.000000)">
+                <g id="Group-15" transform="translate(25.000000, 280.000000)">
+                    <rect id="Rectangle" fill-opacity="0.1" fill="#3D6083" x="0" y="0" width="40" height="40" rx="5"></rect>
+                    <g id="phone-copy" transform="translate(7.000000, 8.000000)">
+                        <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="25" height="24" rx="5"></rect>
+                        <g id="mail" transform="translate(1.875000, 4.800000)" stroke="#3D6083" stroke-width="2">
+                            <path d="M20.6357687,0.606692571 L11.330925,8.64977143 C10.9283437,8.99609143 10.3216562,8.99609143 9.919075,8.64977143 L0.618406875,0.598659429 M7.82141312,6.82837714 L0.70764625,13.8836571 M20.6295,13.7993143 L13.4264938,6.82632 M2.125,14.4 L19.125,14.4 C20.2986375,14.4 21.25,13.4790171 21.25,12.3428571 L21.25,2.05714286 C21.25,0.921013714 20.2986375,0 19.125,0 L2.125,0 C0.951394375,0 0,0.921013714 0,2.05714286 L0,12.3428571 C0,13.4790171 0.951394375,14.4 2.125,14.4 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

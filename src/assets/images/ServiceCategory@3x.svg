@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Service Category@3x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40" rx="10"></rect>
+        <filter x="-13.8%" y="-8.8%" width="127.5%" height="127.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0784313725   0 0 0 0 0.196078431   0 0 0 0 0.31372549  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Practice-Management" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Practice-Calender-Schedule-Week" transform="translate(-1386.000000, -133.000000)">
+            <g id="Service-Category" transform="translate(1389.000000, 134.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.2" stroke="#173E67" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="39" height="39" rx="10"></rect>
+                </g>
+                <g id="health_and_safety_black_24dp" transform="translate(8.000000, 8.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M10.5,13 L8,13 L8,10 L10.5,10 L10.5,7.5 L13.5,7.5 L13.5,10 L16,10 L16,13 L13.5,13 L13.5,15.5 L10.5,15.5 L10.5,13 Z M12,2 L4,5 L4,11.09 C4,16.14 7.41,20.85 12,22 C16.59,20.85 20,16.14 20,11.09 L20,5 L12,2 Z M18,11.09 C18,15.09 15.45,18.79 12,19.92 C8.55,18.79 6,15.1 6,11.09 L6,6.39 L12,4.14 L18,6.39 L18,11.09 Z" id="Shape" fill="#5C63AB" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

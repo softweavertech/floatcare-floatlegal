@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Date@3x</title>
+    <g id="Cases" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Client-Cases/Case-Info/William-Carnes/Evaluations-Copy-7" transform="translate(-152.000000, -475.000000)">
+            <g id="Group-10" transform="translate(127.000000, 305.000000)">
+                <g id="Group-15" transform="translate(25.000000, 170.000000)">
+                    <rect id="Rectangle" fill-opacity="0.1" fill="#3D6083" x="0" y="0" width="40" height="40" rx="5"></rect>
+                    <g id="Group-59" transform="translate(7.500000, 8.000000)">
+                        <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="24" height="24" rx="5"></rect>
+                        <g id="calendar" transform="translate(3.000000, 2.500000)" stroke="#3D6083" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <path d="M3,3 L3,0 M7,3 L7,0 M11,3 L11,0 M15,3 L15,0 M18,7 L0,7 M2,18 L16,18 C17.1046,18 18,17.1046 18,16 L18,4 C18,2.89543 17.1046,2 16,2 L2,2 C0.89543,2 0,2.89543 0,4 L0,16 C0,17.1046 0.89543,18 2,18 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

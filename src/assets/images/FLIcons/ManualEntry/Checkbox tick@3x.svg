@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Checkbox tick@3x</title>
+    <defs>
+        <polygon id="path-1" points="3.26083333 6.17166667 0.828333333 3.73916667 -8.8817842e-16 4.56166667 3.26083333 7.8225 10.2608333 0.8225 9.43833333 -1.77635684e-15"></polygon>
+        <rect id="path-3" x="0" y="0" width="29.1666667" height="29.1666667"></rect>
+    </defs>
+    <g id="Cases" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Client-Cases/Case-Info/William-Carnes/Evaluations-Copy-7" transform="translate(-715.000000, -875.000000)">
+            <g id="Group-25-Copy" transform="translate(127.000000, 844.000000)">
+                <g id="Group-15" transform="translate(25.000000, 25.000000)">
+                    <g id="Group-14" transform="translate(528.000000, 2.000000)">
+                        <g id="Input-Fields/Checkbox/On" transform="translate(35.000000, 4.000000)">
+                            <rect id="checkbox_default" fill="#1F3D5A" x="0" y="0" width="16" height="16" rx="3"></rect>
+                            <g id="Icons/16/Forms/Checkmark" transform="translate(2.989167, 4.260833)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="🎨-Color" mask="url(#mask-2)">
+                                    <g transform="translate(-9.572500, -10.844167)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <use id="Color" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

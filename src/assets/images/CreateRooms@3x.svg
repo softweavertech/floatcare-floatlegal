@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Create rooms@3x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40" rx="10"></rect>
+        <filter x="-13.8%" y="-8.8%" width="127.5%" height="127.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0784313725   0 0 0 0 0.196078431   0 0 0 0 0.31372549  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Practice-Management" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Practice-Calender-Schedule-Week" transform="translate(-1276.000000, -133.000000)">
+            <g id="Create-rooms" transform="translate(1279.000000, 134.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.2" stroke="#173E67" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="39" height="39" rx="10"></rect>
+                </g>
+                <g id="ic_cettings" transform="translate(8.000000, 8.000000)" fill="#5C63AB">
+                    <rect id="Icon-Spacing" opacity="0" x="0" y="0" width="24" height="24" rx="5"></rect>
+                    <path d="M20.69,16.37 L21.83,15.37 L20.83,13.64 L19.38,14.13 C19.06,13.86 18.7,13.65 18.3,13.5 L18,12 L16,12 L15.7,13.49 C15.3,13.64 14.94,13.85 14.62,14.12 L13.17,13.63 L12.17,15.36 L13.31,16.36 C13.23,16.86 13.23,17.12 13.31,17.62 L12.17,18.62 L13.17,20.35 L14.62,19.86 C14.94,20.13 15.3,20.34 15.7,20.49 L16,22 L18,22 L18.3,20.51 C18.7,20.36 19.06,20.15 19.38,19.88 L20.83,20.37 L21.83,18.64 L20.69,17.64 C20.77,17.13 20.77,16.87 20.69,16.37 Z M17,19 C15.9,19 15,18.1 15,17 C15,15.9 15.9,15 17,15 C18.1,15 19,15.9 19,17 C19,18.1 18.1,19 17,19 Z M18,4 L18,10 L16,10 L16,6 L14,6 L14,12 L12,12 L12,5 L6,5 L6,19 L11,19 L11,21 L2,21 L2,19 L4,19 L4,3 L14,3 L14,4 L18,4 Z M11,13 L9,13 L9,11 L11,11 L11,13 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

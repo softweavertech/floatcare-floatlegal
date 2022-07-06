@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Basic Consultation</title>
+    <g id="Create-Appointments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Practice-Calender-Schedule/Create-Appointment-/Confirm-Full-view" transform="translate(-527.000000, -583.000000)">
+            <g id="Group-18" transform="translate(512.000000, 538.000000)">
+                <g id="Group-17" transform="translate(0.000000, 25.000000)">
+                    <g id="Group-11" transform="translate(15.000000, 15.000000)">
+                        <g id="Basic-Consultation" transform="translate(0.000000, 5.000000)">
+                            <g id="Group-5" fill="#5563AB" fill-opacity="0.1">
+                                <rect id="Rectangle" x="0" y="0" width="34" height="34" rx="17"></rect>
+                            </g>
+                            <g id="card_membership_black_24dp" transform="translate(11.000000, 11.000000)" fill="#5C63AB" fill-rule="nonzero">
+                                <path d="M11.7,0 L1.3,0 C0.5785,0 0,0.5785 0,1.3 L0,8.45 C0,9.1715 0.5785,9.75 1.3,9.75 L3.9,9.75 L3.9,13 L6.5,11.7 L9.1,13 L9.1,9.75 L11.7,9.75 C12.4215,9.75 13,9.1715 13,8.45 L13,1.3 C13,0.5785 12.4215,0 11.7,0 Z M11.7,8.45 L1.3,8.45 L1.3,7.15 L11.7,7.15 L11.7,8.45 Z M11.7,5.2 L1.3,5.2 L1.3,1.95 C1.3,1.5925 1.5925,1.3 1.95,1.3 L11.05,1.3 C11.4075,1.3 11.7,1.5925 11.7,1.95 L11.7,5.2 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

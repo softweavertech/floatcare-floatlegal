@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Invite info diselect@3x</title>
+    <defs>
+        <filter x="-118.0%" y="-122.9%" width="336.0%" height="345.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.650980392   0 0 0 0 0.643137255   0 0 0 0 0.631372549  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-118.0%" y="-122.9%" width="336.0%" height="345.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.650980392   0 0 0 0 0.643137255   0 0 0 0 0.631372549  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Super-Admin---Side-Bar-(Dashboard)" transform="translate(-18.000000, -269.000000)">
+            <g id="Group-43-Copy-7" transform="translate(0.000000, 253.000000)">
+                <g id="Icon/Messaging-Copy-18" transform="translate(26.000000, 16.804348)">
+                    <polygon id="Path" points="0 0 25 0 25 24 0 24"></polygon>
+                    <g id="medical_services_black_24dp" filter="url(#filter-1)">
+                        <rect id="Rectangle" x="0" y="0" width="25" height="24"></rect>
+                    </g>
+                    <g id="person_add_black_24dp" filter="url(#filter-2)">
+                        <polygon id="Path" points="0 0 25 0 25 24 0 24"></polygon>
+                        <path d="M15.625,12 C17.9270833,12 19.7916667,10.21 19.7916667,8 C19.7916667,5.79 17.9270833,4 15.625,4 C13.3229167,4 11.4583333,5.79 11.4583333,8 C11.4583333,10.21 13.3229167,12 15.625,12 Z M15.625,6 C16.7708333,6 17.7083333,6.9 17.7083333,8 C17.7083333,9.1 16.7708333,10 15.625,10 C14.4791667,10 13.5416667,9.1 13.5416667,8 C13.5416667,6.9 14.4791667,6 15.625,6 Z M15.625,14 C12.84375,14 7.29166667,15.34 7.29166667,18 L7.29166667,20 L23.9583333,20 L23.9583333,18 C23.9583333,15.34 18.40625,14 15.625,14 Z M9.375,18 C9.60416667,17.28 12.8229167,16 15.625,16 C18.4375,16 21.6666667,17.29 21.875,18 L9.375,18 Z M6.25,15 L6.25,12 L9.375,12 L9.375,10 L6.25,10 L6.25,7 L4.16666667,7 L4.16666667,10 L1.04166667,10 L1.04166667,12 L4.16666667,12 L4.16666667,15 L6.25,15 Z" id="Shape" fill-opacity="0.4" fill="#5563AB" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

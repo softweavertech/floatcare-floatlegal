@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Email@3x</title>
+    <g id="Law-Firm-Info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Firm-Info---Blanked" transform="translate(-591.000000, -234.000000)">
+            <g id="Group" transform="translate(137.000000, 145.000000)">
+                <g id="Group-14" transform="translate(25.000000, 25.000000)">
+                    <g id="Group-3" transform="translate(121.000000, 10.000000)">
+                        <g id="Group-23" transform="translate(0.000000, 54.000000)">
+                            <g id="Email" transform="translate(308.000000, 0.000000)">
+                                <rect id="Rectangle" fill-opacity="0.1" fill="#3D6083" x="0" y="0" width="32" height="32" rx="5"></rect>
+                                <path d="M25.450805,10.5477086 L17.13118,17.8088214 C16.771225,18.1214714 16.228775,18.1214714 15.86882,17.8088214 L7.5529285,10.5404564 M13.9932635,16.1645071 L7.632719,22.5338571 M25.4452,22.4577143 L19.004865,16.16265 M8.9,23 L24.1,23 C25.14937,23 26,22.1685571 26,21.1428571 L26,11.8571429 C26,10.8314707 25.14937,10 24.1,10 L8.9,10 C7.8506585,10 7,10.8314707 7,11.8571429 L7,21.1428571 C7,22.1685571 7.8506585,23 8.9,23 Z" id="Shape" stroke="#3D6083" stroke-width="2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

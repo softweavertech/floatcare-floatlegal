@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Create appointment@3x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40" rx="10"></rect>
+        <filter x="-13.8%" y="-8.8%" width="127.5%" height="127.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0784313725   0 0 0 0 0.196078431   0 0 0 0 0.31372549  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Practice-Management" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Practice-Calender-Schedule-Week" transform="translate(-1496.000000, -133.000000)">
+            <g id="Create-appointment" transform="translate(1499.000000, 134.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.2" stroke="#173E67" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="39" height="39" rx="10"></rect>
+                </g>
+                <g id="medical_services_black_24dp" transform="translate(8.000000, 8.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group" transform="translate(2.000000, 2.000000)" fill="#5C63AB" fill-rule="nonzero">
+                        <path d="M18,4 L14,4 L14,2 C14,0.9 13.1,0 12,0 L8,0 C6.9,0 6,0.9 6,2 L6,4 L2,4 C0.9,4 0,4.9 0,6 L0,18 C0,19.1 0.9,20 2,20 L18,20 C19.1,20 20,19.1 20,18 L20,6 C20,4.9 19.1,4 18,4 Z M8,2 L12,2 L12,4 L8,4 L8,2 Z M18,18 L2,18 L2,6 L18,6 L18,18 Z" id="Shape"></path>
+                        <polygon id="Path" points="11 8 9 8 9 11 6 11 6 13 9 13 9 16 11 16 11 13 14 13 14 11 11 11"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

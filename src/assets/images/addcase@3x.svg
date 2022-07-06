@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>addcase@3x</title>
+    <g id="FloatLegal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Client-cases/Attached-Cases-/No-data" transform="translate(-273.000000, -651.000000)" fill="#5C63AB" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(154.000000, 550.000000)">
+                <g id="Group-4" transform="translate(119.000000, 99.000000)">
+                    <path d="M13,10 L8,10 L8,15 C8,15.55 7.55,16 7,16 C6.45,16 6,15.55 6,15 L6,10 L1,10 C0.45,10 0,9.55 0,9 C0,8.45 0.45,8 1,8 L6,8 L6,3 C6,2.45 6.45,2 7,2 C7.55,2 8,2.45 8,3 L8,8 L13,8 C13.55,8 14,8.45 14,9 C14,9.55 13.55,10 13,10 Z" id="addcase"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

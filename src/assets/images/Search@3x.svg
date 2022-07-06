@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Search@3x</title>
+    <defs>
+        <path d="M8.33333333,7.33333333 L7.80666667,7.33333333 L7.62,7.15333333 C8.27333333,6.39333333 8.66666667,5.40666667 8.66666667,4.33333333 C8.66666667,1.94 6.72666667,0 4.33333333,0 C1.94,0 0,1.94 0,4.33333333 C0,6.72666667 1.94,8.66666667 4.33333333,8.66666667 C5.40666667,8.66666667 6.39333333,8.27333333 7.15333333,7.62 L7.33333333,7.80666667 L7.33333333,8.33333333 L10.6666667,11.66 L11.66,10.6666667 L8.33333333,7.33333333 L8.33333333,7.33333333 Z M4.33333333,7.33333333 C2.67333333,7.33333333 1.33333333,5.99333333 1.33333333,4.33333333 C1.33333333,2.67333333 2.67333333,1.33333333 4.33333333,1.33333333 C5.99333333,1.33333333 7.33333333,2.67333333 7.33333333,4.33333333 C7.33333333,5.99333333 5.99333333,7.33333333 4.33333333,7.33333333 L4.33333333,7.33333333 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+    </defs>
+    <g id="Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-chat-/Search-for-messages-Copy-4" transform="translate(-504.000000, -365.000000)">
+            <g id="Group-17" transform="translate(489.000000, 198.000000)">
+                <g id="Search" transform="translate(15.000000, 167.000000)">
+                    <circle id="Oval" fill-opacity="0.03" fill="#173E67" cx="14.5" cy="14.5" r="14.5"></circle>
+                    <g id="Icon-Copy-10" transform="translate(9.000000, 9.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="🎨-Color" mask="url(#mask-2)">
+                            <g transform="translate(-10.666667, -10.666667)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Color" stroke="none" fill="#5C63AB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

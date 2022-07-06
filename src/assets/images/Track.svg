@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Track@3x</title>
+    <g id="Schedule" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Clock-in---Clock-out/View-details-Copy-2" transform="translate(-172.000000, -288.000000)">
+            <g id="Clock-In-Out-Tab-+-List-view/Clock-in---clock-out/View-Copy-+-List-view/Clock-in---clock-out/View-Copy-2-+-List-view/Clock-in---clock-out/View-Copy-5-+-List-view/Clock-in---clock-out/View-Copy-6-+-Elements/Divider-Copy-2-+-Elements/Divider-Copy-3-+-Elements/Divider-Copy-4-+-List-view/Clock-in---clock-out/View-Copy-3-+-Elements/Divider-Copy-5-+-Elements/Divider-Copy-6-+-List-view/Clock-in---clock-out/View-Copy-4-Mask" transform="translate(125.000000, 215.000000)">
+                <g id="Group-6" transform="translate(20.000000, 25.000000)">
+                    <g id="Track" transform="translate(27.000000, 48.000000)">
+                        <circle id="Oval" fill-opacity="0.15" fill="#173E67" cx="25" cy="25" r="25"></circle>
+                        <g id="watch_later_black_24dp" transform="translate(10.000000, 10.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                            <path d="M15,2.5 C8.125,2.5 2.5,8.125 2.5,15 C2.5,21.875 8.125,27.5 15,27.5 C21.875,27.5 27.5,21.875 27.5,15 C27.5,8.125 21.875,2.5 15,2.5 Z M19.4375,19.75 L14.3375,16.6125 C13.9625,16.3875 13.7375,15.9875 13.7375,15.55 L13.7375,9.6875 C13.75,9.175 14.175,8.75 14.6875,8.75 C15.2,8.75 15.625,9.175 15.625,9.6875 L15.625,15.25 L20.425,18.1375 C20.875,18.4125 21.025,19 20.75,19.45 C20.475,19.8875 19.8875,20.025 19.4375,19.75 Z" id="Shape" fill="#173E67" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

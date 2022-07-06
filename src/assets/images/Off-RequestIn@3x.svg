@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Off-Request in tool tip@3x</title>
+    <g id="Work-Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-Calendar/Call-Off/Croll-View" transform="translate(-269.000000, -225.000000)">
+            <g id="Group-27" transform="translate(243.000000, 206.000000)">
+                <g id="Group-24" transform="translate(0.000000, 19.000000)">
+                    <g id="Off-Request-in-tool-tip" transform="translate(26.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#5C63AB" x="0" y="0" width="40" height="40" rx="20"></rect>
+                        <g id="Group-23" transform="translate(11.000000, 13.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M10.2857143,3.5 C10.2857143,1.56625 8.75142857,0 6.85714286,0 C4.96285714,0 3.42857143,1.56625 3.42857143,3.5 C3.42857143,5.43375 4.96285714,7 6.85714286,7 C8.75142857,7 10.2857143,5.43375 10.2857143,3.5 Z M0,12.25 L0,13.125 C0,13.60625 0.385714286,14 0.857142857,14 L12.8571429,14 C13.3285714,14 13.7142857,13.60625 13.7142857,13.125 L13.7142857,12.25 C13.7142857,9.9225 9.14571429,8.75 6.85714286,8.75 C4.56857143,8.75 0,9.9225 0,12.25 Z M13.7142857,5.25 L17.1428571,5.25 C17.6142857,5.25 18,5.64375 18,6.125 L18,6.125 C18,6.60625 17.6142857,7 17.1428571,7 L13.7142857,7 C13.2428571,7 12.8571429,6.60625 12.8571429,6.125 L12.8571429,6.125 C12.8571429,5.64375 13.2428571,5.25 13.7142857,5.25 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Scheduling @3x</title>
+    <defs>
+        <path d="M6.25,9.375 L4.16666667,9.375 L4.16666667,11.4583333 L6.25,11.4583333 L6.25,9.375 L6.25,9.375 Z M10.4166667,9.375 L8.33333333,9.375 L8.33333333,11.4583333 L10.4166667,11.4583333 L10.4166667,9.375 L10.4166667,9.375 Z M14.5833333,9.375 L12.5,9.375 L12.5,11.4583333 L14.5833333,11.4583333 L14.5833333,9.375 L14.5833333,9.375 Z M16.6666667,2.08333333 L15.625,2.08333333 L15.625,-3.55271368e-15 L13.5416667,-3.55271368e-15 L13.5416667,2.08333333 L5.20833333,2.08333333 L5.20833333,-3.55271368e-15 L3.125,-3.55271368e-15 L3.125,2.08333333 L2.08333333,2.08333333 C0.927083333,2.08333333 0.0104166667,3.02083333 0.0104166667,4.16666667 L0,18.75 C0,19.8958333 0.927083333,20.8333333 2.08333333,20.8333333 L16.6666667,20.8333333 C17.8125,20.8333333 18.75,19.8958333 18.75,18.75 L18.75,4.16666667 C18.75,3.02083333 17.8125,2.08333333 16.6666667,2.08333333 L16.6666667,2.08333333 Z M16.6666667,18.75 L2.08333333,18.75 L2.08333333,7.29166667 L16.6666667,7.29166667 L16.6666667,18.75 L16.6666667,18.75 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="52.0833333" height="52.0833333"></rect>
+    </defs>
+    <g id="Scheduling-Rulesets-&amp;-Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Scheduling-Layout-" transform="translate(-152.000000, -294.000000)">
+            <g id="Group-7" transform="translate(127.000000, 276.000000)">
+                <g id="Scheduling-" transform="translate(25.000000, 18.000000)">
+                    <rect id="Rectangle" fill="#5C63AB" x="0" y="0" width="60" height="60" rx="30"></rect>
+                    <g id="Icon/Icons/ic_date_range" transform="translate(21.125000, 20.083333)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="🎨-Color" mask="url(#mask-2)">
+                            <g transform="translate(-16.666667, -15.625000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Color" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

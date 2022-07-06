@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Chevron Right@3x</title>
+    <g id="Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-chat" transform="translate(-426.000000, -227.000000)">
+            <g id="Group-14" transform="translate(102.000000, 209.000000)">
+                <g id="Group-8" transform="translate(25.000000, 12.000000)">
+                    <g id="Icon/-Down" transform="translate(302.500000, 11.500000) rotate(-90.000000) translate(-302.500000, -11.500000) translate(291.460000, 0.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="22.08" height="23"></rect>
+                        <path d="M9.99945466,11.5 L14.1134773,15.4494618 C14.4877298,15.8087441 14.4877298,16.3912559 14.1134773,16.7505382 C13.7392249,17.1098206 13.1324418,17.1098206 12.7581893,16.7505382 L7.96652267,12.1505382 C7.59227022,11.7912559 7.59227022,11.2087441 7.96652267,10.8494618 L12.7581893,6.24946176 C13.1324418,5.89017941 13.7392249,5.89017941 14.1134773,6.24946176 C14.4877298,6.60874411 14.4877298,7.19125589 14.1134773,7.55053824 L9.99945466,11.5 Z" id="Shape" fill="#5C63AB" transform="translate(11.040000, 11.500000) rotate(-90.000000) translate(-11.040000, -11.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

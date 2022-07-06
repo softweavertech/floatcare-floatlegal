@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fill Slots@3x</title>
+    <g id="Scheduling-Rulesets-&amp;-Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shift-Rulesets/Selection/add-staff-/Add-staff-Copy-2" transform="translate(-758.000000, -378.000000)">
+            <g id="Group-49" transform="translate(543.000000, 328.000000)">
+                <g id="Fill-Slots" transform="translate(215.000000, 50.000000)">
+                    <circle id="Oval" fill-opacity="0.1" fill="#5563AB" cx="42" cy="42" r="42"></circle>
+                    <g id="difference_black_24dp-(1)" transform="translate(23.000000, 23.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="38" height="38"></rect>
+                        <path d="M28.5,36.4166667 L6.33333333,36.4166667 C4.59166667,36.4166667 3.16666667,34.9916667 3.16666667,33.25 L3.16666667,11.0833333 L6.33333333,11.0833333 L6.33333333,33.25 L28.5,33.25 L28.5,36.4166667 Z M23.75,1.58333333 L12.6666667,1.58333333 C10.925,1.58333333 9.51583333,3.00833333 9.51583333,4.75 L9.5,26.9166667 C9.5,28.6583333 10.9091667,30.0833333 12.6508333,30.0833333 L30.0833333,30.0833333 C31.825,30.0833333 33.25,28.6583333 33.25,26.9166667 L33.25,11.0833333 L23.75,1.58333333 Z M26.125,23.75 L16.625,23.75 L16.625,20.5833333 L26.125,20.5833333 L26.125,23.75 Z M26.125,14.25 L22.9583333,14.25 L22.9583333,17.4166667 L19.7916667,17.4166667 L19.7916667,14.25 L16.625,14.25 L16.625,11.0833333 L19.7916667,11.0833333 L19.7916667,7.91666667 L22.9583333,7.91666667 L22.9583333,11.0833333 L26.125,11.0833333 L26.125,14.25 Z" id="Shape" fill="#5C63AB" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

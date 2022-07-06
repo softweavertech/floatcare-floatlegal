@@ -1,0 +1,893 @@
+.patient-list-top {
+  background: #F5F8FA;
+
+  h1 {
+    color: #173E67;
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+    color: #173E67;
+    font-weight: 600;
+    font-size: 0.875rem;
+    border: rgba($color: #173E67, $alpha: 0.2) solid 1px;
+    background: #fff;
+    border-radius: 8px;
+
+    &:hover {
+      background: rgba($color: #173E67, $alpha: 0.1);
+      color: #173E67;
+    }
+  }
+}
+
+.patients-list-container {
+  .contianer-tabs .nav-item {
+    margin-left: 17px;
+  }
+
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  .table-container {
+    border-radius: 15px;
+    overflow: auto;
+    background: #FFFF;
+
+    table {
+      color: #173E67;
+      font-size: 0.875rem;
+
+      thead {
+        th {
+          color: #92929D;
+          font-size: 0.875rem;
+          font-weight: 600;
+          // border-top: rgba($color: #173E67, $alpha: 0.1) solid 1px;
+          // border-bottom: rgba($color: #173E67, $alpha: 0.1) solid 1px;
+          background: #EFF3F6;
+          padding: 15px;
+          text-align: left;
+          white-space: nowrap;
+
+          &:first-child {
+            // border: rgba($color: #173E67, $alpha: 0.1) solid 1px;
+            border-right: none;
+            border-radius: 15px 0 0 15px;
+          }
+
+          &:last-child {
+            // border: rgba($color: #173E67, $alpha: 0.1) solid 1px;
+            border-right: none;
+            border-radius: 0 15px 15px 0;
+          }
+        }
+      }
+
+      tbody {
+        tr {
+          border-bottom: #EFF3F6 solid 1px;
+        }
+
+        td {
+          vertical-align: middle;
+          padding: 15px;
+        }
+
+        .Complete,
+        .Rejected,
+        .Pending {
+          color: #fff;
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: #74E790;
+        }
+
+        .Rejected {
+          background: #F93D3D;
+        }
+
+        .Pending {
+          background: #FFBC65;
+        }
+
+        .chat-btn {
+          background: rgba($color: #173E67, $alpha: 0.1);
+          border-radius: 10px;
+          padding: 8px 15px;
+          font-size: 0.875rem;
+        }
+
+        .view-btn {
+          color: #4394AD;
+          font-size: 0.875rem;
+          border-radius: 10px;
+          padding: 8px 15px;
+          background: rgba($color: #173E67, $alpha: 0.03);
+        }
+
+        .leader {
+          color: #0070FF;
+          font-size: 14px;
+          font-weight: 400;
+          background-color: RGBA(0, 112, 255, 0.2);
+          width: 56px;
+          height: 24px;
+          border-radius: 10px;
+          text-align: center;
+          line-height: 1.6rem;
+        }
+
+        .card-title {
+          margin-bottom: 0.4rem;
+          text-transform: capitalize;
+        }
+
+        .card-subtitle {
+          color: RGBA(23, 62, 103, 0.4);
+          font-size: 12px;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+}
+
+/*-----------Patient view and screening view details-------------------*/
+.patientOverview-container-bg {
+  background: #F1F1F5;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+
+  .patientOverview-breadcrumbTop {
+    border-radius: 0px;
+    padding: 45px !important;
+    background-color: RGB(255, 255, 255) !important;
+
+    .patient-basic-information {
+      border: 1px solid RGBA(85, 99, 171, 0.2);
+      border-radius: 15px;
+      padding: 18px 18px 23px 18px;
+    }
+
+    .patient-header {
+      font-size: 26px;
+      color: #173E67;
+      font-weight: 600;
+      padding-bottom: 25px;
+    }
+    .w-50 {
+      width: 76% !important;
+      float: right;
+  }
+  .progressBar{
+    padding-top: 20px;
+  }
+  .progressStatus{
+    padding-top: 15px;
+    text-align: left;
+  }
+    .progress-bar {
+      background-color: #5C63AB;
+      border-radius: 10px;
+    }
+
+    span.progBar {
+      font-size: 16px;
+      color: #173E67;
+      font-weight: 500;
+    }
+
+    .dot {
+      height: 6px;
+      width: 6px;
+      background-color: RGBA(85, 99, 171, 0.4);
+      border-radius: 50%;
+      display: inline-block;
+      margin-right: 4px;
+      margin-left: 4px;
+    }
+
+    .patient-ethnicity,
+    .patient-age {
+      .card-title {
+        font-size: 16px;
+        color: #173E67;
+        font-weight: bold;
+      }
+
+      .card-subtitle {
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+        padding-top: 15px;
+        color: RGBA(23, 62, 103, 0.4);
+      }
+    }
+
+    .referral-info {
+      border: 1px solid RGBA(85, 99, 171, 0.2);
+      border-radius: 15px;
+      padding: 10px;
+      .addressIcon{
+        margin-right: 10px;
+      }
+      .desProfile {
+        .card-add svg{
+          margin-right: 10px;
+        }
+      }
+    }
+
+    .referral-criteria,
+    .referral-details {
+      background-color: RGB(239, 243, 246) !important;
+      border-left: 2px solid #cccccc1f;
+      border-right: 2px solid #cccccc1f;
+      padding: 35px 20px !important;
+      border-radius: 10px !important;
+      margin-top: 25px;
+
+      h5 {
+        font-size: 14px;
+        font-weight: bold;
+        color: #5C63AB;
+        padding-bottom: 26px;
+      }
+
+      h6 {
+        font-size: 16px;
+      }
+
+      p {
+        font-size: 14px;
+        font-weight: bold;
+        color: RGBA(23, 62, 103, 0.4);
+      }
+      
+    }
+
+  }
+
+  .patients-view-container {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    .diagnosis-nav {
+      .viewBtn {
+        margin-right: 13px;
+      }
+    }
+
+    .table-container {
+      background: RGBA(85, 99, 171, 0.03);
+      margin: 0px 11px;
+      border-radius: 10px;
+      min-height: 420px;
+      max-height: 420px;
+      overflow-y: auto;
+      overflow-x: hidden;
+
+      h6 {
+        font-size: 16px;
+        font-weight: bold;
+        margin: 28px 0px 28px 10px;
+      }
+
+      .patients-screenings {
+        margin-left: 10px;
+
+        .prefered-provider {
+          .provider-tag {
+            width: 80px;
+            color: #9D9D9D;
+            background: #F0F0F1;
+            border: #9D9D9D solid 1px;
+            border-radius: 13px;
+            position: absolute;
+            right: 20px;
+            top: -15px;
+          }
+
+          .chat-btn {
+            background: rgba($color: #173E67, $alpha: 0.1);
+            border-radius: 10px;
+            padding: 8px 15px;
+            font-size: 0.875rem;
+            float: right;
+            margin-top: 19px;
+
+            img {
+              width: 13px;
+              height: 13px;
+            }
+          }
+
+          img {
+            width: 55px;
+            height: 53px;
+            border-radius: 10px;
+          }
+
+          .scheduleBtn {
+            border-radius: 10px;
+          }
+
+          h6 {
+            font-size: 14px;
+            font-weight: bold;
+            color: #173E67;
+          }
+
+          h5 {
+            font-size: 14px;
+            font-weight: 400;
+            color: #173E67;
+          }
+
+          span {
+            font-weight: 400;
+            color: #adabab;
+            font-size: 12px;
+          }
+
+          .viewBtn {
+            background-color: RGB(250, 250, 251);
+            font-weight: bold;
+            border-radius: 10px;
+            border: 1px solid RGB(250, 250, 251);
+            box-shadow: none;
+            transition: none;
+            width: 138px;
+            color: #4394ad;
+            height: 40px;
+            font-size: 14px;
+            line-height: 27px;
+            margin-top: 18px;
+            margin-bottom: 13px;
+            text-decoration: none;
+            padding-top: 6px;
+            padding-left: 26px;
+            float: left;
+          }
+
+          .view .btn-primary {
+            margin-top: 19px;
+            float: right;
+          }
+        }
+
+        .card {
+          border-radius: 10px;
+
+          .card-body {
+
+            .Complete,
+            .Overdue,
+            .Pending {
+              color: #74E790;
+              // padding: 10px 20px;
+              border: 1px #74E790 solid;
+              border-radius: 10px;
+              background: RGB(239, 255, 243);
+              font-size: 12px;
+              font-weight: 500;
+              margin-top: 5px;
+              width: 78px;
+              height: 26;
+
+            }
+
+            .Overdue {
+              background: RGB(255, 234, 234);
+              border: 1px #F93D3D solid;
+              color: #F93D3D;
+            }
+
+            .Pending {
+              background: RGB(255, 245, 232);
+              border: 1px #FFBC65 solid;
+              color: #FFBC65;
+            }
+          }
+        }
+      }
+    }
+
+    .contianer-tabs {
+      margin-left: 40px;
+    }
+  }
+
+  .dateField {
+    font-size: 14px;
+    color: #173E67;
+    font-weight: bold;
+    background-color: #F1F1F5 !important;
+    padding: 4px 8px;
+    border-radius: 8px;
+
+    span {
+      font-size: 12px;
+      font-weight: 400;
+    }
+  }
+
+  .specialty-div {
+    padding-top: 25px;
+  }
+
+  .documents {
+    padding: 35px 37px !important;
+    border-radius: 0px 0px 15px 15px;
+    background-color: RGB(255, 255, 255) !important;
+  }
+
+  .leader-ships {
+    padding: 35px 37px !important;
+    border-radius: 0px;
+    background-color: RGB(255, 255, 255) !important;
+
+    h6 {
+      margin-bottom: 10px;
+    }
+  }
+
+  .leaderships-card {
+    margin: 0 !important;
+    padding: 15px;
+    border-radius: 15px !important;
+  }
+
+  .documents-card {
+    margin: 0 !important;
+    padding: 15px;
+    border-radius: 15px !important;
+
+  }
+
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    /* background-color: #fff; */
+    background-clip: border-box;
+    /* border: 1px solid rgba(0, 0, 0, 0.125); */
+    /* border-radius: 0.25rem; */
+  }
+
+  .patientDoc .address {
+    /* padding-top: 26px; */
+    text-align: left;
+
+    p {
+      font-size: 12px;
+      font-weight: 400;
+    }
+  }
+
+  .docuName {
+    p {
+      font-size: 14px;
+      font-weight: 600;
+      color: #173E67;
+      margin-top: 18px;
+      padding-right: 39px;
+    }
+  }
+
+  .docuStatus p.card-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #5C63AB;
+    margin-top: 15px !important;
+    background-color: #e1e5ea;
+    /* padding: 5px; */
+    border-radius: 8px;
+    width: 161px;
+    height: 26px;
+    padding-right: 0px;
+
+  }
+
+  h6 {
+    color: #173E67;
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+  .desProfile {
+    padding-top: 36px;
+
+    // padding-bottom:36px;
+    .card-add {
+      font-size: 14px;
+      font-weight: bold;
+      color: #173E67;
+
+      img {
+        padding-right: 15px;
+      }
+    }
+
+    .viewBtn {
+      background-color: RGB(250, 250, 251);
+      font-weight: bold;
+      border-radius: 10px;
+      border: 1px solid RGB(250, 250, 251);
+      box-shadow: none;
+      transition: none;
+      width: 138px;
+      color: #173E67;
+      height: 40px;
+      font-size: 14px;
+      line-height: 27px;
+      text-decoration: none;
+    }
+  }
+
+  .uploadBtn svg {
+    background-color: RGBA(85, 99, 171, 0.1) !important;
+    border-radius: 50px;
+    width: 102px;
+    height: 101.8px;
+    padding: 20px;
+    margin-left: 165px;
+  }
+
+  .uploadBtn p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: #173E67;
+    padding-top: 5px;
+  }
+
+  .bgColor {
+    background-color: RGB(239, 243, 246) !important;
+    border-left: 2px solid #cccccc1f;
+    border-right: 2px solid #cccccc1f;
+    padding: 35px 37px !important;
+    border-radius: 0px !important;
+
+    h6 {
+      font-size: 16px;
+    }
+
+    p {
+      font-size: 14px;
+      font-weight: bold;
+      color: RGBA(23, 62, 103, 0.4);
+    }
+  }
+
+  .viewBtn {
+    background-color: #5563AB;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 1px solid #5563AB;
+    box-shadow: none;
+    transition: none;
+    width: 138px;
+    color: #fff;
+    height: 40px;
+    font-size: 14px;
+    line-height: 27px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    float: right;
+
+    &:hover {
+      background-color: #fff;
+      border: 1px solid #5563AB;
+      color: #5563AB;
+    }
+  }
+
+  .patient-proff {
+    padding-left: 15px;
+
+    .patient-profes-name {
+      .card-title {
+        font-size: 24px;
+        font-weight: 600;
+        padding-left: 25px;
+        padding-bottom: 10px;
+        text-align: left;
+        text-transform: capitalize;
+      }
+
+      .card-subtitle {
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+        padding-left: 25px;
+        color: RGBA(23, 62, 103, 0.4);
+      }
+    }
+
+    .profile-img {
+      img {
+        width: 66px;
+        height: 66px;
+        border-radius: 7px;
+      }
+      .profile-avatar{
+        width: 66px;
+        height: 66px;
+        border-radius: 7px;
+      }
+      .b-avatar .b-avatar-text {
+        text-transform: uppercase;
+        white-space: nowrap;
+        font-size: 26px;
+        font-weight: 600;
+    }
+    }
+  }
+
+  .patient-name {
+    vertical-align: middle;
+
+    // padding-left: 24px;
+    .d-flex {
+      display: flex !important;
+    }
+
+    .flex-row {
+      flex-direction: row !important;
+    }
+
+    .profile-image {
+      width: 60px;
+      height: 60px;
+      border-radius: 5px;
+
+      img {
+        margin-top: 8px;
+      }
+    }
+
+    .professional {
+      color: #173e67;
+      font-size: 14px;
+      font-weight: 600;
+      width: 140px;
+
+      p.card-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: #173E67;
+        margin-top: 15px !important;
+      }
+
+      p.card-subtitle {
+        font-size: 14px;
+        font-weight: 500;
+        color: RGBA(23, 62, 103, 0.4);
+        padding-top: 4px;
+        padding-left: 14px;
+        text-align: left;
+      }
+    }
+
+    .fteStatus {
+      color: RGB(23, 62, 103);
+      font-size: 12px;
+      font-weight: 400;
+
+      .dot {
+        height: 6px;
+        width: 6px;
+        background-color: RGB(80, 181, 255);
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 10px;
+      }
+    }
+
+    .address {
+      padding-top: 26px;
+      text-align: left;
+
+      .card-add {
+        color: #173E67;
+        font-size: 14px;
+        font-weight: 400;
+
+        // padding-bottom: 9px;
+        p {
+          font-size: 10px;
+          font-weight: 600;
+          color: RGBA(23, 62, 103, 0.4);
+        }
+
+        span.roleApp {
+          color: #173E67;
+          font-size: 14px;
+          font-weight: 500;
+        }
+
+        img,
+        svg {
+          vertical-align: middle;
+          /* color: aqua; */
+          padding-right: 5px;
+        }
+
+        /* padding-top: 10px; */
+      }
+
+    }
+
+  }
+
+  .credBtn {
+    background-color: RGB(239, 243, 246);
+    font-weight: 600;
+    border-radius: 10px;
+    border: 1px solid RGB(239, 243, 246);
+    box-shadow: none;
+    transition: none;
+    width: 138px;
+    color: RGBA(23, 62, 103, 0.4);
+    height: 40px;
+    font-size: 12px;
+    line-height: 27px;
+    margin-top: 6px;
+    margin-bottom: 14px;
+    float: right;
+
+    &:hover {
+      background-color: #fff;
+      border: 1px solid #5563AB;
+      color: #5563AB;
+    }
+  }
+
+  .text-center {
+    text-align: center !important;
+  }
+
+}
+/*-------------End patientOverview-container-bg---------------------*/
+
+/*-------------Patient details modal---------------------*/
+.patientDetailsModal {
+  
+  .modal-dialog {
+      max-width: 600px;
+  }
+
+  .patient-header {
+    padding: 35px 35px 39px 35px;
+      .patient-title {
+          line-height: 1.5;
+
+          h3 {
+              font-size: 26px !important;
+              font-weight: bold !important;
+              color: #173e67 !important;
+          }
+      }
+
+      .searchUser {
+          padding-right: 15px;
+
+      }
+  }
+
+  .patient-info-details {
+    padding: 0px 35px;
+      .profile-image {
+          width: 72px;
+          height: 69px;
+          border-radius: 10px;
+      }
+
+      .title {
+          color: #173e67;
+          font-size: 26px;
+          font-weight: bold;
+      }
+
+      .profile-details {
+          font-weight: 400;
+          color: #adabab;
+      }
+
+      .referral-profile {
+          h2 {
+              font-size: 16px;
+              color: #173e67;
+              font-weight: 400;
+          }
+      }
+
+  }
+
+  .patient-info-footer {
+      background-color: RGB(239, 243, 246);
+      padding: 35px!important;
+      margin-top: 30px!important;
+      .attorney-title {
+          font-size: 17px;
+          color: #173e67;
+          font-weight: 600;
+      }
+
+      p.inner-detail {
+          font-weight: 500;
+          color: #adabab;
+          font-size: 14px;
+      }
+  }
+  .patient-insurances-footer{
+    padding: 35px!important;    
+    background-color: RGB(239, 243, 246);
+    margin-bottom: 25px;
+    margin-top: 10px;
+      h4{
+          font-weight: 600;
+          color: #173e67;
+          font-size: 16px;
+          padding-bottom: 10px;
+      }
+      .attorney-title {
+          font-size: 17px;
+          color: #173e67;
+          font-weight: 600;
+      }
+
+      p.inner-detail {
+          font-weight: 500;
+          color: #adabab;
+          font-size: 14px;
+      }
+      .message-content{
+        padding: 16px;
+        border: 1px solid RGBA(20, 50, 80, 0.12);
+        border-radius: 5px;
+        .file-details {
+          p{
+            margin-bottom: 0px;
+          }
+          .name{
+            font-size: 12px;
+          color: #173e67;
+          font-weight: 400;
+          }
+          .size{
+            font-size: 12px;
+          color: RGBA(23, 62, 103, 0.4);
+          font-weight: 400;
+          }
+          padding-right: 56%!important;
+          padding-top: 7px;
+        }
+      }
+  }
+
+  .modal-body {
+      padding: 0px;
+  }
+
+  .modal-content {
+      // padding: 30px;
+      padding-bottom: 0px;
+      border-radius: 15px;
+  }
+
+  .modal-header {
+      border-bottom: 0 none;
+      padding-bottom: 30px;
+      padding-top: 0px;
+  }
+}
+/*-------------End Patient details modal---------------------*/

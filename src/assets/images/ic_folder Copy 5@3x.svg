@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Material Icons/ic_folder Copy 5@3x</title>
+    <defs>
+        <path d="M14.1666667,-3.55271368e-15 L2.83333333,-3.55271368e-15 C1.275,-3.55271368e-15 0.0141666667,1.275 0.0141666667,2.83333333 L-1.77635684e-15,25.5 C-1.77635684e-15,27.0583333 1.26083333,28.3333333 2.81916667,28.3333333 L19.8333333,28.3333333 C21.3916667,28.3333333 22.6666667,27.0583333 22.6666667,25.5 L22.6666667,8.5 L14.1666667,-3.55271368e-15 L14.1666667,-3.55271368e-15 Z M17,22.6666667 L5.66666667,22.6666667 L5.66666667,19.8333333 L17,19.8333333 L17,22.6666667 L17,22.6666667 Z M17,17 L5.66666667,17 L5.66666667,14.1666667 L17,14.1666667 L17,17 L17,17 Z M12.75,9.91666667 L12.75,2.125 L20.5416667,9.91666667 L12.75,9.91666667 L12.75,9.91666667 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="70.8333333" height="70.8333333"></rect>
+    </defs>
+    <g id="Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload-Documents" transform="translate(-543.000000, -500.000000)">
+            <g id="Group-38" transform="translate(495.000000, 325.000000)">
+                <g id="Group-12" transform="translate(35.000000, 159.000000)">
+                    <g id="Material-Icons/ic_folder-Copy-5" transform="translate(13.666667, 16.833333)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="🎨-Color" mask="url(#mask-2)">
+                            <g transform="translate(-24.083333, -21.250000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Color" stroke="none" fill="#0070FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

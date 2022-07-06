@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Phone@3x</title>
+    <g id="Law-Firm-Info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Firm-Info---Blanked" transform="translate(-895.000000, -234.000000)">
+            <g id="Group" transform="translate(137.000000, 145.000000)">
+                <g id="Group-14" transform="translate(25.000000, 25.000000)">
+                    <g id="Group-3" transform="translate(121.000000, 10.000000)">
+                        <g id="Group-23" transform="translate(0.000000, 54.000000)">
+                            <g id="Phone" transform="translate(612.000000, 0.000000)">
+                                <rect id="Rectangle" fill-opacity="0.1" fill="#3D6083" x="0" y="0" width="32" height="32" rx="5"></rect>
+                                <g id="Group-55" transform="translate(7.000000, 7.000000)">
+                                    <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="18" height="18" rx="5"></rect>
+                                    <g id="phone" transform="translate(4.000000, 2.000000)" stroke="#3D6083" stroke-linecap="round" stroke-width="2">
+                                        <path d="M3,0.75 L6,0.75 M1.5,15 L7.5,15 C8.32845,15 9,14.32845 9,13.5 L9,1.5 C9,0.6715725 8.32845,0 7.5,0 L1.5,0 C0.6715725,0 0,0.6715725 0,1.5 L0,13.5 C0,14.32845 0.6715725,15 1.5,15 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg width="50px" height="25px" viewBox="25 14 55 14" version="1.1"
+                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <title>Group 16@2x</title>
+                                <g id="Side-panel-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                    <g id="Hover/Business-Location" transform="translate(-122.000000, -203.000000)">
+                                        <g id="Business-location" transform="translate(85.000000, 180.000000)">
+                                            <g id="Group-16" transform="translate(37.000000, 23.000000)">
+                                                <g id="Group-15" transform="translate(32.000000, 0.000000)">
+                                                    <rect id="Rectangle" fill="" x="0" y="0" width="42" height="42"
+                                                        rx="10"></rect>
+                                                    <g id="Group" transform="translate(9.000000, 9.000000)">
+                                                        <g id="Group-90" transform="translate(0.480000, 0.000000)">
+                                                            <rect id="Icon-Spacing" opacity="0.2" x="0" y="0"
+                                                                width="23.04" height="24" rx="5"></rect>
+                                                            <g id="location.alt"
+                                                                transform="translate(3.840000, 2.000000)"
+                                                                stroke="#5C63AB" stroke-linecap="round"
+                                                                stroke-linejoin="round" stroke-width="2">
+                                                                <path
+                                                                    d="M15.36,8.25 C15.36,12.8063 7.68,20 7.68,20 C7.68,20 0,12.8063 0,8.25 C0,3.69365 3.4384512,0 7.68,0 C11.921568,0 15.36,3.69365 15.36,8.25 Z"
+                                                                    id="Path"></path>
+                                                            </g>
+                                                            <ellipse id="Oval" fill="#5C63AB" cx="11.52" cy="10"
+                                                                rx="2.88" ry="3"></ellipse>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="Group-15-Copy" opacity="0.497827439"
+                                                    transform="translate(82.000000, 9.000000)">
+                                                    <rect id="Rectangle" fill="#EFF3F6" opacity="0.3" x="0" y="0"
+                                                        width="24" height="24" rx="6"></rect>
+                                                    <g id="Group-90" transform="translate(5.088000, 4.800000)">
+                                                        <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="13.824"
+                                                            height="14.4" rx="5"></rect>
+                                                        <g id="location.alt" transform="translate(2.304000, 1.200000)"
+                                                            stroke="#FFFFFF" stroke-linecap="round"
+                                                            stroke-linejoin="round" stroke-width="2">
+                                                            <path
+                                                                d="M9.216,4.95 C9.216,7.68378 4.608,12 4.608,12 C4.608,12 0,7.68378 0,4.95 C0,2.21619 2.06307072,0 4.608,0 C7.1529408,0 9.216,2.21619 9.216,4.95 Z"
+                                                                id="Path"></path>
+                                                        </g>
+                                                        <ellipse id="Oval" stroke="#FFFFFF" fill="#FFFFFF" cx="6.912"
+                                                            cy="6" rx="1.228" ry="1.3"></ellipse>
+                                                    </g>
+                                                </g>
+                                                <g id="Group-15-Copy-2" opacity="0.497827439"
+                                                    transform="translate(0.000000, 9.000000)">
+                                                    <rect id="Rectangle" fill="#EFF3F6" opacity="0.3" x="0" y="0"
+                                                        width="24" height="24" rx="6"></rect>
+                                                    <g id="Group-90" transform="translate(5.088000, 4.800000)">
+                                                        <rect id="Icon-Spacing" opacity="0.2" x="0" y="0" width="13.824"
+                                                            height="14.4" rx="5"></rect>
+                                                        <g id="location.alt" transform="translate(2.304000, 1.200000)"
+                                                            stroke="#FFFFFF" stroke-linecap="round"
+                                                            stroke-linejoin="round" stroke-width="2">
+                                                            <path
+                                                                d="M9.216,4.95 C9.216,7.68378 4.608,12 4.608,12 C4.608,12 0,7.68378 0,4.95 C0,2.21619 2.06307072,0 4.608,0 C7.1529408,0 9.216,2.21619 9.216,4.95 Z"
+                                                                id="Path"></path>
+                                                        </g>
+                                                        <ellipse id="Oval" stroke="#FFFFFF" fill="#FFFFFF" cx="6.912"
+                                                            cy="6" rx="1.228" ry="1.3"></ellipse>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>

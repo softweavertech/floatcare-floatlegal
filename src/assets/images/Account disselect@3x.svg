@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Account disselect@3x</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Super-Admin---Side-Bar-(Dashboard)" transform="translate(-31.000000, -214.000000)">
+            <g id="Group-43" transform="translate(0.000000, 195.000000)">
+                <g id="Group" transform="translate(26.000000, 16.804348)">
+                    <g id="id_User" transform="translate(0.500000, 0.000000)">
+                        <rect id="Icon-Spacing" fill="#4394AD" opacity="0" x="0" y="0" width="24" height="24" rx="5"></rect>
+                        <g id="Account-Icon" transform="translate(4.500000, 2.500000)" fill="#5563AB" fill-opacity="0.4" fill-rule="nonzero">
+                            <path d="M7.5,9.5 C11.5609173,9.5 14.8680175,12.7274744 14.9961464,16.7572689 L15,17 C15,18.0351791 14.1608216,18.8743575 13.1256425,18.8743575 L1.87435751,18.8743575 C0.83917844,18.8743575 1.26772873e-16,18.0351791 0,17 L0,17 L0,17 C0,12.8578644 3.35786438,9.5 7.5,9.5 Z M7.5,11.5 C4.53652085,11.5 2.12046086,13.84378 2.0043672,16.7787929 L2.002,16.874 L12.997,16.874 L12.9956328,16.7787929 C12.8824415,13.9171553 10.5828447,11.6175585 7.72120714,11.5043672 L7.5,11.5 Z" id="Oval"></path>
+                            <path d="M7.25,0 C9.87335256,0 12,2.12664744 12,4.75 C12,7.37335256 9.87335256,9.5 7.25,9.5 C4.62664744,9.5 2.5,7.37335256 2.5,4.75 C2.5,2.12664744 4.62664744,0 7.25,0 Z M7.25,2 C5.73121694,2 4.5,3.23121694 4.5,4.75 C4.5,6.26878306 5.73121694,7.5 7.25,7.5 C8.76878306,7.5 10,6.26878306 10,4.75 C10,3.23121694 8.76878306,2 7.25,2 Z" id="Oval"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

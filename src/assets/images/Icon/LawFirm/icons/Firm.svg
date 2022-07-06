@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Firm@3x</title>
+    <g id="Law-Firm-Info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Firm-Info/Departments---Details" transform="translate(-979.000000, -291.000000)">
+            <g id="Firm" transform="translate(979.112222, 291.000000)">
+                <rect id="Rectangle" fill-opacity="0.1" fill="#3D6083" x="0" y="0" width="40" height="40" rx="5"></rect>
+                <g id="FC-home-health" transform="translate(8.000000, 8.000000)">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M14,6 L14,4 L10,4 L10,6 L14,6 Z M4,9 L4,18 C4,18.55 4.45,19 5,19 L19,19 C19.55,19 20,18.55 20,18 L20,9 C20,8.45 19.55,8 19,8 L5,8 C4.45,8 4,8.45 4,9 Z M20,6 C21.11,6 22,6.89 22,8 L22,19 C22,20.11 21.11,21 20,21 L4,21 C2.89,21 2,20.11 2,19 L2.01,8 C2.01,6.89 2.89,6 4,6 L8,6 L8,4 C8,2.89 8.89,2 10,2 L14,2 C15.11,2 16,2.89 16,4 L16,6 L20,6 Z" id="Shape" fill="#3D6083" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

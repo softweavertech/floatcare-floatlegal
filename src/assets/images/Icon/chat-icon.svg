@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Icons/ic_mode_comment Copy</title>
+    <defs>
+        <path d="M20,2 L4,2 C2.9,2 2,2.9 2,4 L2,16 C2,17.1 2.9,18 4,18 L18,18 L22,22 L21.99,4 C21.99,2.9 21.1,2 20,2 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="50" height="50"></rect>
+        <rect id="path-5" x="0" y="0" width="50" height="50"></rect>
+    </defs>
+    <g id="Icon/Icons/ic_mode_comment-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Mask"></g>
+        <g id="🎨-Color" mask="url(#mask-2)">
+            <g transform="translate(-13.000000, -13.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Color" stroke="none" fill="#0070FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+        </g>
+        <g id="🎨-Color-Copy" mask="url(#mask-2)">
+            <g transform="translate(-13.000000, -13.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Color" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

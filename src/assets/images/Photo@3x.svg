@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Photo@3x</title>
+    <defs>
+        <path d="M21,18.6666667 L21,2.33333333 C21,1.05 19.95,0 18.6666667,0 L2.33333333,0 C1.05,0 0,1.05 0,2.33333333 L0,18.6666667 C0,19.95 1.05,21 2.33333333,21 L18.6666667,21 C19.95,21 21,19.95 21,18.6666667 L21,18.6666667 Z M6.41666667,12.25 L9.33333333,15.7616667 L13.4166667,10.5 L18.6666667,17.5 L2.33333333,17.5 L6.41666667,12.25 L6.41666667,12.25 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="58.3333333" height="58.3333333"></rect>
+    </defs>
+    <g id="Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-chat-/Photo" transform="translate(-1253.000000, -259.000000)">
+            <g id="Group-89" transform="translate(1238.000000, 244.000000)">
+                <g id="Photo" transform="translate(15.000000, 15.000000)">
+                    <rect id="Rectangle" fill="#0070FF" opacity="0.1" x="0" y="0" width="48" height="48" rx="10"></rect>
+                    <g id="Material-Icons/ic_folder" transform="translate(13.500000, 13.500000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="🎨-Color" mask="url(#mask-2)">
+                            <g transform="translate(-18.666667, -18.666667)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Color" stroke="none" fill="#0070FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

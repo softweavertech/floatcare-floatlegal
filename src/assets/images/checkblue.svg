@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10 Copy@3x</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10-Copy">
+            <circle id="Oval" fill="#0070FF" cx="6" cy="6" r="6"></circle>
+            <g id="check_black_24dp" transform="translate(1.500000, 1.500000)">
+                <polygon id="Path" points="0 0 9 0 9 9 0 9"></polygon>
+                <path d="M3.375,6.06375 L2.07375,4.7625 C1.9275,4.61625 1.69125,4.61625 1.545,4.7625 C1.39875,4.90875 1.39875,5.145 1.545,5.29125 L3.1125,6.85875 C3.25875,7.005 3.495,7.005 3.64125,6.85875 L7.60875,2.89125 C7.755,2.745 7.755,2.50875 7.60875,2.3625 C7.4625,2.21625 7.22625,2.21625 7.08,2.3625 L3.375,6.06375 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

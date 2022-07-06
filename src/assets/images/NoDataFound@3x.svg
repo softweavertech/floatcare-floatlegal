@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>No Data Found@3x</title>
+    <defs>
+        <path d="M30,5 C16.2,5 5,16.2 5,30 C5,43.8 16.2,55 30,55 C43.8,55 55,43.8 55,30 C55,16.2 43.8,5 30,5 L30,5 Z M32.5,42.5 L27.5,42.5 L27.5,27.5 L32.5,27.5 L32.5,42.5 L32.5,42.5 Z M32.5,22.5 L27.5,22.5 L27.5,17.5 L32.5,17.5 L32.5,22.5 L32.5,22.5 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="125" height="125"></rect>
+    </defs>
+    <g id="Document-Centre" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Document-Centre/Create-Form" transform="translate(-787.000000, -711.000000)">
+            <g id="No-Data-Found" transform="translate(787.000000, 711.000000)">
+                <ellipse id="Oval" fill-opacity="0.1" fill="#5563AB" cx="51" cy="50.9445652" rx="51" ry="50.9445652"></ellipse>
+                <g id="Icon/Select/Staff" transform="translate(21.000000, 21.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="🎨-Color" mask="url(#mask-2)">
+                        <g transform="translate(-32.500000, -32.500000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Color" stroke="none" fill="#5C63AB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

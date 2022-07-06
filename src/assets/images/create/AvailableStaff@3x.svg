@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Available Staff@3x</title>
+    <g id="Scheduling-Rulesets-&amp;-Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shift-Rulesets/Selection/add-staff" transform="translate(-151.000000, -669.000000)">
+            <g id="Group-10" transform="translate(135.000000, 653.000000)">
+                <g id="Available-Staff" transform="translate(16.000000, 16.000000)">
+                    <rect id="Rectangle" fill="#5C63AB" x="0" y="0" width="40.7207207" height="40" rx="20"></rect>
+                    <path d="M19,26 C19,27.1 18.1,28 17,28 C15.9,28 15,27.1 15,26 C15,24.9 15.9,24 17,24 C18.1,24 19,24.9 19,26 Z M17,18 C15.9,18 15,18.9 15,20 C15,21.1 15.9,22 17,22 C18.1,22 19,21.1 19,20 C19,18.9 18.1,18 17,18 Z M17,12 C15.9,12 15,12.9 15,14 C15,15.1 15.9,16 17,16 C18.1,16 19,15.1 19,14 C19,12.9 18.1,12 17,12 Z M23,16 C24.1,16 25,15.1 25,14 C25,12.9 24.1,12 23,12 C21.9,12 21,12.9 21,14 C21,15.1 21.9,16 23,16 Z M23,18 C21.9,18 21,18.9 21,20 C21,21.1 21.9,22 23,22 C24.1,22 25,21.1 25,20 C25,18.9 24.1,18 23,18 Z M23,24 C21.9,24 21,24.9 21,26 C21,27.1 21.9,28 23,28 C24.1,28 25,27.1 25,26 C25,24.9 24.1,24 23,24 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

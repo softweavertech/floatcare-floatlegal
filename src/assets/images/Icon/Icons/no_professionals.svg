@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <defs>
+        <path d="M10,0 C4.48,0 0,4.48 0,10 C0,15.52 4.48,20 10,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 10,0 L10,0 Z M11,15 L9,15 L9,9 L11,9 L11,15 L11,15 Z M11,7 L9,7 L9,5 L11,5 L11,7 L11,7 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="50" height="50"></rect>
+    </defs>
+    <g id="Scheduling-Rulesets-&amp;-Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open-shift/Open-shift" transform="translate(-804.000000, -1692.000000)">
+            <g id="Group-19" transform="translate(804.000000, 1692.000000)">
+                <circle id="Oval" fill-opacity="0.2" fill="#5C63AB" cx="35" cy="35" r="35"></circle>
+                <g id="Icon/Icons/ic_add" transform="translate(25.000000, 25.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="🎨-Color" mask="url(#mask-2)">
+                        <g transform="translate(-15.000000, -15.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Color" stroke="none" fill="#5C63AB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
